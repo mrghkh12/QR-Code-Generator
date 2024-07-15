@@ -58,7 +58,8 @@ body{
     width: 100%;
     padding: 10px;
 }
-.container #imgBox.show-Qr_img{
+.container #imgBox.show-Qr-img{
     max-height: 300px;
     margin: 10px auto ;
+    border: 1px solid #d1d1d1;
 }
